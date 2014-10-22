@@ -1,7 +1,7 @@
 <html>
 <body>
 <?php
-echo "<h1>Wellcome in my page github</h1>";
+echo "<h1>Wellcome in my page github. This is just the beginning.</h1>";
 ?>
 </body>
 </html>
