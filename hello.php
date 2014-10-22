@@ -1,3 +1,3 @@
 <?php
-echo "Wellcome in my page github";
+echo "<h1>Wellcome in my page github</h1>";
 ?>
